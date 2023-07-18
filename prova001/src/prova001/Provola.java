@@ -24,7 +24,7 @@ public class Provola {
 		System.out.println("hello!");
 		// ullallero.
 		
-		System.out.println("porcoddio");
+		System.out.println("Ciao!");
 	}
 
 }
